@@ -1,4 +1,4 @@
-# Avances
+# Confusing a neural network using adversarial examples
 
 A continuacion se presenta el proyecto en el curso de Inteligencia Artificial CC421, grupo 7:
 
