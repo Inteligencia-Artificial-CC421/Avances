@@ -35,4 +35,4 @@ es el ruido que se añade a la imagen original x, para generar un ejemplo advers
 
 El trabajo de implemento en un modelo entrenado en clasificacion de imagenes de base de datos de tipo MNIST. El archivo jupyter notebook asi como los recursos necesarios puede encontrarlos en la carpeta "Codigo". 
 
-OBSERVACION:  Se intento implementar el ataque de tipo FGSM en un modelo de clasificacion de imagenes de tigres, hyenas y cheetas. Sin embargo la implementacion no se culmino para la entrega del proyecto, si desea ver el codigo junto a sus recursos puede encontrarlos en la carpeta "Observacion"
+OBSERVACIONES:  Se intento implementar el ataque de tipo FGSM en un modelo de clasificacion de imagenes de tigres, hyenas y cheetas. Sin embargo la implementacion no se culmino para la entrega del proyecto, si desea ver el codigo junto a sus recursos puede encontrarlos en la carpeta "Observaciones"
